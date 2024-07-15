@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ujikom</string>
+    <string name="data_pegawai">Data Pegawai</string>
+    <string name="add_data">Add Data</string>
+    <string name="add_data_pegawai">Add Data Pegawai</string>
+    <string name="edit_data_pegawai">Edit Data Pegawai</string>
+</resources>
